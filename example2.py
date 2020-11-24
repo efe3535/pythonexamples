@@ -1,3 +1,12 @@
+#Python calculating factorial
+#Python faktöriyel hesaplama
+
+#You can copy that file as you want.
+#Its ok for me :D
+
+#Dosyayı istediğiniz gibi kopyalayabilirsiniz.
+#Benim için sorun yok :D
+
 faktoriyel = int(input("sayi"))
 
 x=1

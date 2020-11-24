@@ -1,3 +1,12 @@
+#Python sayı tahmin oyunu
+#Python number guess game
+
+#You can copy that file as you want.
+#Its ok for me :D
+
+#Dosyayı istediğiniz gibi kopyalayabilirsiniz.
+#Benim için sorun yok :D
+
 sayi=50
 a=1
 

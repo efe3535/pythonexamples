@@ -1,3 +1,12 @@
+#Python simple if else and while loop example.
+#Python basit if else ve while döngüsü örneği.
+
+#You can copy that file as you want.
+#Its ok for me :D
+
+#Dosyayı istediğiniz gibi kopyalayabilirsiniz.
+#Benim için sorun yok :D
+
 user = input("admin/user ")
 
 parola = "1234"
