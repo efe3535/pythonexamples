@@ -1,16 +1,16 @@
 user = input("admin/user ")
 while True:
     if user == "admin":
-        sayi1 = input("başlanacak sayı")
-        sayi2 = input("kaça kadar?")
-        sayi3 = input("kaç atlamalıyız")
+        baslangic = input("başlanacak sayı")
+        bitis = input("kaça kadar?")
+        atlama = input("kaç atlamalıyız")
         
-        for _ in range(int(sayi1),int(sayi2),int(sayi3)):
+        for _ in range(int(baslangic),int(bitis)+1,int(atlama)):
             print(_)
         break
     elif user == "user":
         sayi4 = input("kaça kadar?")
-        for _ in range(int(sayi4)):
+        for _ in range(int(sayi4)+1):
             print(_)
         break
     else:
