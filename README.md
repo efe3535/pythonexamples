@@ -1,7 +1,5 @@
 # Merhaba / Hello
 
-TR:
-    Burada boş zamanlarımda ya da derslerimde kodladığım örnekleri paylaşıyorum.
+Here I share my examples that I coded on my lessons or my free time.
 
-EN:
-    Here I share my examples that I coded on my free time or lessons.
+Burada derslerimde ya da boş zamanımda kodladığım örnekleri paylaşıyorum.
