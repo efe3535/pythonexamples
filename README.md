@@ -1,4 +1,4 @@
-# Merhaba
+# Merhaba / Hello
 
 TR:
     Burada boş zamanlarımda ya da derslerimde kodladığım örnekleri paylaşıyorum.
