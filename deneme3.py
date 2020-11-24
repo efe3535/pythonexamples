@@ -1,4 +1,4 @@
-user = input("admin/user" )
+user = input("admin/user ")
 while True:
     if user == "admin":
         sayi1 = input("başlanacak sayı")
