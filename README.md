@@ -1,6 +1,6 @@
 # Merhaba / Hello
 # EN:
-    Here I share my examples that I coded on my lessons or my free time.
+    Here I share my examples that I coded at my lessons or my free time.
     ----
     You can copy my files as you want.
 
