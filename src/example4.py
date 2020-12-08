@@ -1,18 +1,21 @@
-def calisanAta(ad,numara):
-    return ad+" "+numara
+from colorama import Fore
 
-calisanlar = [calisanAta("Ahmet","71"),calisanAta("Mehmet","89")]
+calisanlar = ["Ahmet","Mehmet"]
 
 #yeni çalışanlar katılıyor
 
-calisanlar.append(calisanAta("Burak","95"))
-calisanlar.append(calisanAta("Hüseyin","76"))
+calisanlar.append("Burak")
+calisanlar.append("Hüseyin")
+
+numaralar = ["1","2","3","4"]
 
 #Değerler yazılıyor
 
-print(calisanlar)
+print("Çalışanlar\t",calisanlar)
 
 #Döngü ile çalışanların ad ve numaraları yazılıyor
+x=[]
 
-for calisan in calisanlar:
-    print("Çalışan: ",calisan)
+for i in range(len(calisanlar)):
+    x.append(f"Adı ve id'si: ID: {i} Ad: {calisanlar[i]}")
+print("\n".join(x))
