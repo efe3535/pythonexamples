@@ -17,5 +17,5 @@ print("Çalışanlar\t",calisanlar)
 x=[]
 
 for i in range(len(calisanlar)):
-    x.append(f"Adı ve id'si: ID: {i} Ad: {calisanlar[i]}")
+    x.append(f"Adı ve id'si: {Fore.RED} ID: {i} {Fore.RESET + Fore.GREEN}Ad: {calisanlar[i]}"+Fore.RESET)
 print("\n".join(x))
