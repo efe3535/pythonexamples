@@ -1,0 +1,1 @@
+adlar = ["Ahmet"]
